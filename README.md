@@ -2,12 +2,6 @@
 
 Um app básico para controlar gastos e ganhos.
 
-## 🚀 Como usar
-
-1. Instale o Expo CLI: `npm install -g expo-cli`
-2. Execute: `expo start`
-3. Escaneie o QR code no seu celular
-
 ## 📱 Funcionalidades
 
 - ✅ Adicionar gastos e ganhos
